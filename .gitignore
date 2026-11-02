@@ -1,6 +1,6 @@
 .idea
 在vscode中编辑完成后上传到GitHub的方法
-1.在VScode中打开GitHub克隆仓库
+1.在VScode中打开GitHub克隆仓库，要先下载git程序
 2.在资源管理器新建文件
 3.打开终端 输入语句
 (1)echo "# java_learning_notes" >> README.md#创建readme文件
